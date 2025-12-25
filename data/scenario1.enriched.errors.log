@@ -1,0 +1,248 @@
+s1_c88b63993a3200eb: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_79bb8fbf93aad293: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_e3a35053aba23766: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_adb803802f61fe2a: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_b7306b3d349ffb6b: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_774a00ea1c6cbb28: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_978e2d07cf6fe441: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_8c263e68852a6eb3: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_ff1f5618e27ad6d1: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_f526e0cb14b7fcd8: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_4c5f7ebd24b646d8: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_6265e3f49f528f68: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_252569efde4f2aea: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_5b51ce87c6002684: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_5756052197c50dd7: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_2348326c85e20ba5: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_d0d890878090e910: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_25503d9428e9f996: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_bec39a3b3f1bf96c: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_7fa4310d674ddab6: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_0f97dd5ef2e73db7: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_8b16414ac8b7290e: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_a366e1803544edab: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_ac34582eb1cbd0bb: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_4c599599ec266391: No '{' found in response
+s1_bfaef0cccccc83d5: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_1ceb37ada5aa3c5a: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_ec07bcf80a8fb7dd: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_0bef617f358193c7: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_28980c984a32fdc2: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_cc3200620cba5966: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_93fc6308a2c618cd: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_4c682e1d453c3255: No '{' found in response
+s1_95bd274221881a33: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_f10e5d4c687799d2: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_ddec597f22340e36: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_1949f3e4a159cce6: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_342b54c41d81eb38: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_bdf39012ebccfe41: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_2ba0d8f51b87ffed: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_34d0ab68a3e63a24: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_e662c616696fbdb5: No '{' found in response
+s1_92b980e5db92da30: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_a07c94cb451f449f: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_90de831c062146b3: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_2231411faa7502d9: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_49c9204ad3e3149e: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_bf66c23e7d289b03: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_cb55438761c64a1f: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_5e19068eff443c03: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_c223de0a301c60bc: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_e7df5c517473dcd1: Failed to parse JSON chunk: Expecting ',' delimiter: line 3 column 99 (char 245). Chunk head: {
+  "question": "What validation does the `assert` statement in `tests/test_surname_hyphen_aware.py` enforce, and what would happen if it fails?",
+  "answer": "The `assert` statement enforces that the
+s1_f2f7de189a8360bf: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_f2d7f4091c927358: Failed to parse JSON chunk: Expecting ',' delimiter: line 3 column 99 (char 245). Chunk head: {
+  "question": "What validation does the `assert` statement in `tests/test_surname_hyphen_aware.py` enforce, and what would happen if it fails?",
+  "answer": "The `assert` statement enforces that the
+s1_70d284fc5efdf205: Failed to parse JSON chunk: Expecting ',' delimiter: line 3 column 99 (char 245). Chunk head: {
+  "question": "What validation does the `assert` statement in `tests/test_surname_hyphen_aware.py` enforce, and what would happen if it fails?",
+  "answer": "The `assert` statement enforces that the
+s1_044ec7e5d6b7ad3b: Failed to parse JSON chunk: Expecting ',' delimiter: line 3 column 96 (char 242). Chunk head: {
+  "question": "What validation does the `assert` statement in `tests/test_surname_hyphen_aware.py` enforce, and what would happen if it fails?",
+  "answer": "The `assert` statement enforces that the
+s1_713b78bba936ae38: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_3e154e5838f9639e: Failed to parse JSON chunk: Expecting ',' delimiter: line 3 column 107 (char 237). Chunk head: {
+  "question": "What validation does the `assert` statement in `tests/test_text.py` enforce, and what would happen if it fails?",
+  "answer": "The `assert` statement enforces that `normalize_text(Non
+s1_c7a16e7aef5bffaa: Failed to parse JSON chunk: Expecting ',' delimiter: line 2 column 50 (char 51). Chunk head: {
+  "question": "What validation does the `assert "" == normalize_text("")` statement enforce, and what would happen if it fails?",
+  "answer": "The `assert` statement enforces that the `normalize_tex
+s1_3d77c8cf94b20e46: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_20ce62c6d534cfc7: No '{' found in response
+s1_6bb51238e28b5bd3: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_10bacd7f575a3f95: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_a7d51200612adc82: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_98be2e81adcdc493: Failed to parse JSON chunk: Expecting ',' delimiter: line 3 column 79 (char 204). Chunk head: {
+  "question": "What validation does the `assert` statement in `tests/test_text.py` enforce, and what happens if it fails?",
+  "answer": "The `assert` statement enforces that the function `equal_midd
+s1_51df02dbdebe71da: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_276bb7d649496e53: No '{' found in response
+s1_fdbfeda3d15f5f1d: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_5cdf494d0995c3b4: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_f05ebfddd3a0bcd6: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_45735f88e9c72fec: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_a21d169663edcbee: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_0c4e40f7b7010b2e: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_e15f8e26f69657e4: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_f2adff1dbc584db6: No '{' found in response
+s1_8ca6dae01715f6bd: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_b0368fdbbdf5c219: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_053e1b9d6f17dc96: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_7f5363eb0cd8986d: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_bd6058fe1d51092b: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_0539bd7f512b8497: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_ce3984ea713d470c: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_4acf2b8c5a89338c: Unclosed JSON object in response
+s1_7a4bdca074d34cde: No '{' found in response
+s1_d0190f2c5d01a429: Failed to parse JSON chunk: Unterminated string starting at: line 3 column 13 (char 165). Chunk head: {
+  "question": "What validation does the `assert` statement in `scripts/transform_all_datasets.py` enforce, and what happens if the validation fails?",
+  "answer": "The `assert` statement checks if t
+s1_fd1a9f49055a5e16: Unclosed JSON object in response
+s1_43caf6225002e6d7: Unclosed JSON object in response
+s1_bb2f1936207068cd: Failed to parse JSON chunk: Unterminated string starting at: line 3 column 13 (char 158). Chunk head: {
+  "question": "What validation does the `assert` statement in `scripts/transform_all_datasets.py` enforce, and what would happen if it fails?",
+  "answer": "The `assert` statement enforces that the 
+s1_2f0f9091e21cae5f: Failed to parse JSON chunk: Unterminated string starting at: line 3 column 13 (char 170). Chunk head: {
+  "question": "What validation does the `assert` statement in `scripts/transform_all_datasets.py` enforce, and what would happen if the validation fails?",
+  "answer": "The `assert` statement enforc
+s1_f2fdaf51e882be7b: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_ceed69d8b4cf6709: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_55a65519650a3b8d: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_1f125b6d46de4a63: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_1c505ff5e85117fe: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_dd028f3679dfa85c: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_85e9edf56079c412: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_768ff2ec488d330b: No '{' found in response
+s1_eee4e30588fd9880: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_9a900103240db9a3: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_0cb28748dc9b0ee7: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_14cfce075aa4c292: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_5829ca090b5db8eb: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_f524a2a754315b14: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_495c94ecf5413472: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_b07210bf37b9bf15: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_d2b9a773e64e275b: No '{' found in response
+s1_232f26e4f2e9cf26: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_a1e5e68c44056698: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_bd29a8a0320308d4: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_60eb25edaef19a95: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_ba40fd7fc4cce201: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_f96d9774faa1db93: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_cc3d5d15fb46401c: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_f7fb01354aae43ed: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_590bda01f3735326: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_e268771f65404fd4: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_b455cc9a13cbafab: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_edb06a546deab2c6: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_f7310ed3351a1ba6: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_493c8cfd2d116f01: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_faad07815bcf9472: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_6ea68d8159d1c688: No '{' found in response
+s1_a7606fd709700944: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_f7f7715a76234cb5: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_44e747c65eeb3341: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_bd206068b3fbb359: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_00e2938433a8b63e: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_cfa124c2f577b35d: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_ea4d0de919463e12: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_fb2d5a18f445846c: No '{' found in response
+s1_ed4226a3bb1989b6: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_1c62dc92ff0fba1e: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_7f8c8af39f34f383: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_9844047b61ecd046: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_683f825ff1bbc3c4: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_2f8246b2fda8adb3: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_0dce75b69e7ff072: No '{' found in response
+s1_1c7037fc61f57cec: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_955833a59eec2b70: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_b0ded549a3a65491: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_60e930f02441699a: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_02ae78e83a7dfd56: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_0edac8f3ffa03306: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_5b7080b000e9ea64: No '{' found in response
+s1_b4c8b70636b0ac1e: Failed to parse JSON chunk: Expecting ',' delimiter: line 14 column 58 (char 733). Chunk head: {
+  "question": "What event or state is logged at the `info` level in the provided code snippet, and what does this tell us about the business flow?",
+  "answer": "The code snippet logs an empty strin
+s1_48fb545ec47fe568: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_b508f6fcc9531060: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_d6d0d82ae50e92a2: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_577fa10f8d56ecb9: No '{' found in response
+s1_a134656f6cf934f8: Failed to parse JSON chunk: Expecting ',' delimiter: line 3 column 65 (char 213). Chunk head: {
+  "question": "What event or state is logged at the `info` level in the given Python script, and what does this tell us about the business flow?",
+  "answer": "The evidence snippet shows a call to `
+s1_0a296559509bb030: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_ae2901a899a3d47f: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_60f244385235e444: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_5933f2302aa727fa: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_788d1d5b97afd759: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_b80ccb401a68371e: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_4ab4416c155bd32c: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_dfd739b448e60a76: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_b9c0f53d564b83a8: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_2dee9eeefe69b2f9: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_4e99a19204282f3f: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_ad8455b94c8a963d: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_47a66851543b3a90: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_fc9467187b00fcd2: Failed to parse JSON chunk: Expecting ',' delimiter: line 14 column 53 (char 743). Chunk head: {
+  "question": "What event or state is logged at the `info` level in the given code snippet, and what does this tell us about the business flow?",
+  "answer": "The code snippet logs an empty string a
+s1_39007f9689679a88: No '{' found in response
+s1_321001e2589d93c9: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_25aea39116305919: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_c9ace1a63dbc6cbe: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_b25ca5bd26aa2cb2: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_47277d927cc7c411: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_7624ae89ad2bbeb1: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_660c3b88484b179d: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_1b581d36459b8b68: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_9a40a05d63785a2e: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_13e210ac0ec30f19: No '{' found in response
+s1_94cc951aa3426c7e: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_f37e16910df2d8e9: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_ea9f8620a7e3323e: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_6635cc313a3877cf: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_40ffc68368f09cee: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_a5f0ca22f464158b: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_d55c27d3a1929191: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_0cfeb963fbf46f59: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_b61d24c0e1ee712e: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_c3e4fbca45c02f8e: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_a3287f882964dda0: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_54d5b27f7a35c084: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_00c3748c71e1b964: No '{' found in response
+s1_2ec54a0f82ddf1e9: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_8203988820e68019: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_0bea026c1d757890: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_b34b1af467bba989: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_cbc7f2a47c5b1134: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_579608f6afe008fa: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_658a5a5669b56442: No '{' found in response
+s1_6a237e0fcbee534c: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_32f9bc401731e2ee: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_781bc1b8b84a7d58: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_eccc29f0877fe142: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_33ecd09b600c20f7: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_dab85fa3cf91ec43: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_7989705cd5579273: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_ea55f03c50bb6277: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_c3b108318f10e9af: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_50d85f277b2bb17a: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_266a6245388024b4: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_34b87b059e7044f4: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_9cd21196b22d0edb: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_aa1107275ab493cd: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_6d26b89c2f684b5b: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_9b61b89473e2b443: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_ee84066589632faf: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_fa3f851dab9dd483: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_f0c3b6672fc805fa: No '{' found in response
+s1_e1675cf9202b2a83: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_b96745ecd36fd8a9: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_4111929edc82ca4f: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_c1ccf26559528415: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_43a0e07e6678d338: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_cf9b7f99f87d8061: 400 Client Error: Bad Request for url: http://172.22.121.5:3000/v1/chat/completions
+s1_546458b11ed6064b: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
+s1_b4e53899a81569b2: HTTPConnectionPool(host='172.22.121.5', port=3000): Read timed out. (read timeout=60)
