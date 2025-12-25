@@ -1,7 +1,0 @@
-Metadata-Version: 2.4
-Name: repo-data-factory
-Version: 0.1.0
-Summary: Rule+LLM training data factory for repository QA/design tasks
-Requires-Python: >=3.9
-Requires-Dist: tqdm
-Requires-Dist: requests
